@@ -10,7 +10,7 @@ mihalovic.jakub.2018@skola.ssps.cz <br/>
   * Kontakt
     * Jakub Mihalovič mihalovic.jakub.2018@skola.ssps.cz
 * Celkový popis
-  * Cílem je vytvořit program s jednoduchou filmovou databází. Lze do něj jednoduše přidávat a odebírat položky. 
+  * Cílem je vytvořit program s jednoduchou filmovou databází. Lze do něj jednoduše přidávat a odebírat položky. Prvky bude také možné filtrovat a seřazovat.
   * Program může používat každý uživatel PC
 * Požadavky na rozhraní
   * WPF
